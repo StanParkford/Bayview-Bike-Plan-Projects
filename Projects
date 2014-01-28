@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40696430206297,
+          37.78499503236122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Industrial Street": "Not Implemented"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.40563392639159,
+            37.738353395359255
+          ],
+          [
+            -122.39991545677184,
+            37.73996543542927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Jennings Street": "Not Implemented"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.37912297248839,
+            37.73770856950212
+          ],
+          [
+            -122.37689137458801,
+            37.74019451195895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Mendell Street": "Not Implemented"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.39035606384277,
+            37.734590417857355
+          ],
+          [
+            -122.39068329334258,
+            37.7342595042607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pier 70": "Not Implemented"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.38778114318846,
+            37.763098584750935
+          ],
+          [
+            -122.38760948181152,
+            37.76057100182786
+          ],
+          [
+            -122.38477706909181,
+            37.760740640969516
+          ],
+          [
+            -122.38353252410889,
+            37.759824584982816
+          ],
+          [
+            -122.38346815109253,
+            37.75785672265231
+          ],
+          [
+            -122.38499164581299,
+            37.75773797066448
+          ],
+          [
+            -122.38550662994385,
+            37.75812815505155
+          ],
+          [
+            -122.38730907440184,
+            37.75802636801855
+          ]
+        ]
+      }
+    }
+  ]
+}
